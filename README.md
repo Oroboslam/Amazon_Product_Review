@@ -37,7 +37,7 @@ To perform Exploratory Data Analysis on Amazon product data and generate actiona
 - Used Pivot Tables and Charts for EDA
 
 ## Tools 
- - MS Excel [Dwonload Here]( http.// www.microsoft.com)
+ - MS Excel [Download Here]( http.//www.microsoft.com)
  - Skills Applied
     - Data Collecton
     - Data Cleaning and formatting
